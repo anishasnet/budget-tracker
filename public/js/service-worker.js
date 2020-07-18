@@ -12,3 +12,4 @@ const FILES_TO_CACHE = [
     "../icons/icon-384x384.png",
     "../icons/icon-512x512.png"
 ];
+
