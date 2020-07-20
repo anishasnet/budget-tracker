@@ -22,6 +22,8 @@ npm install
 ## Application
 
 To use this application please see the following link: http://anishasnet-budget-tracker.herokuapp.com/
+Here is what the page looks like upon loading:
+![Page on Loading](./images/page1.png)
 
 ## Usage
 
