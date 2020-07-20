@@ -9,6 +9,7 @@
 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/styles.css">
+  <!-- link manifest json file-->
   <link rel="manifest" href="/manifest.json">
 
 
@@ -42,10 +43,11 @@
     
     <canvas id="myChart"></canvas>
   </div>
-
+  <!-- scripts -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
   <script src="js/index.js"></script>
   <script src="./js/idb.js"></script>
+  <!-- script for service worker to register-->
   <script>
     (function() {
       if("serviceWorker" in navigator) {

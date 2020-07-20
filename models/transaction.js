@@ -2,6 +2,7 @@ const mongoose = require("mongoose");
 
 const Schema = mongoose.Schema;
 
+// transaction schema needs name, value, date
 const transactionSchema = new Schema(
   {
     name: {
@@ -22,4 +23,5 @@ const transactionSchema = new Schema(
 
 const Transaction = mongoose.model("Transaction", transactionSchema);
 
+//export model
 module.exports = Transaction;
