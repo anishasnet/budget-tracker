@@ -7,6 +7,7 @@ This application allows the user to track their budget by entering their transac
 ## Table of Contents
 * [Installation](#installation)
 * [Application](#application)
+* [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
 * [Questions](#questions)
